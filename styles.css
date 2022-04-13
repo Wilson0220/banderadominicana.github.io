@@ -1,0 +1,107 @@
+.container {
+    background-color: aqua;
+    height: 505px;
+    margin: 0%;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+#container1 {
+    float: left;
+    width: 902.045px;
+    background-color: rgb(209, 227, 241);
+}
+
+#container2 {
+    float: right;
+    width: 420px;
+    background-color: rgb(209, 227, 241);
+}
+
+#mapa {
+    width: 405px;
+    height: 495px;
+    /*padding-top: 3%;*/
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(163, 181, 196);
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-right: 2%;
+}
+
+a {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+
+/******************************index*/
+
+.h1 {
+    color: red;
+    text-align: center;
+}
+
+#h1rojo {
+    color: red;
+    text-align: center;
+}
+
+#h1azul {
+    color: blue;
+    text-align: center;
+}
+
+#h1blanco {
+    color: white;
+    text-align: center;
+}
+
+.row {
+    width: 370px;
+    height: 150px;
+    background-color: red;
+}
+
+#cuadrante1 {
+    background-color: blue;
+}
+
+#blanco {
+    background-color: yellow;
+    height: 70px;
+}
+
+#cuadrante3 {
+    background-color: blue;
+}
+
+#cuadrante2A {
+    background-color: white;
+}
+
+#cuadrante3A {
+    background-color: white;
+}
+
+article {
+    display: inline-block;
+}
+
+#article1 {
+    margin-left: 6%;
+}
+
+#article3A {
+    width: 70px;
+}
